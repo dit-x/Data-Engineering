@@ -28,11 +28,11 @@ def writeToFile(key):
     elif letter == "Key.backspace":
         with open("log.txt", "r") as f: # open the file as read
             f_content = f.read()        # Store the file content in f_content
-            f_content = f_content[:-1]  # From the f_content, remove the last character for f_content
+            f_content = f_content[:-1]  # From the f_content, remove the last character from f_content
 
-        with open("log.txt","w") as f:  # Open the file in write mood, this is to overwrite what ever you have in the file
+        with open("log.txt","w") as f:  # Open the file in write mood, this will clear the file content (make it empty)
             f.write(f_content)          # Remember, you have removed the last character.
-                                        # Paste the file content in the file and store
+                                        # Paste the file content (f_content) in the file and store
 
     elif letter == "Key.esc":  # When key is esc, quit the program
         return False
