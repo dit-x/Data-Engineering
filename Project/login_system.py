@@ -1,19 +1,24 @@
 import csv
 
 def user(username):
-
+    check = ''
     with open('user_details.txt', 'r') as f:
         f_content = csv.DictReader(f)
 
+
         for line in f_content:
-            if line["username"].lower() == username.lower():
+            if line["username"].lower() == username.lower(): # key: value
                 print(f"\nHello, {line['firstName'].title()} {line['lastName'].title()}")
                 print(f"""Here are your information: 
     Username: {username}
     University: {line['university'].upper()}
     Email: {line['email']}""")
 
+                check = 'found'
                 break
+
+        if check != 'found':
+            print("Account not found")
 
 
 
@@ -28,13 +33,13 @@ def checkUsername(response):
     while True:
         check = ''
         username = input("Enter username: ")
-        username = username.lower()
+        username = username.lower() #change the username to a lower case
 
         with open('user_details.txt', 'r') as f:
-            f_content = csv.DictReader(f)
+            f_content = csv.DictReader(f)   #open file content as CSV file
 
-            for line in f_content:
-                a =line['username']
+            for line in f_content: # loop through line by line
+                a = line['username'] # store the dict value of username key in 'a' key: value
                 a = a.lower()
 
                 if username == a and response == "sign in":
@@ -48,7 +53,6 @@ def checkUsername(response):
                     break
 
         if check != 'sign in':
-
             break
 
     return username
