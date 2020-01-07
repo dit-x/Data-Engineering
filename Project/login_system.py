@@ -108,4 +108,4 @@ else:
     if sign == 'y':
         signUp()
     else:
-        print("We hope you change your mind")
+        print("We hope you change your mind.")
