@@ -115,10 +115,7 @@ def process_log_file(cur, filepath):
 
     # load user table
     user_df = df[["userId", "firstName", "lastName", "gender", "level"]]
-    
-    # Removing duplicate user_id to have unique column
-    user_df.drop_duplicates(subset="userId", inplace=True) 
-    
+     
     # insert user records
     for i, row in user_df.iterrows():
         cur.execute(user_table_insert, row)
