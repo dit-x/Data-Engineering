@@ -247,7 +247,7 @@ def convert_ts(ts):
 # Extract Data for Users Table and Insert Records into Users Table
 Data extraction for users table is easy, I just selected columns for user ID, first name, last name, gender, and level and set to user_df and inserted records for the users in this log file into the users table.
 
-# Extract Data and Songplays Table
+## Extract Data into Songplays Table
 This one is a little more complicated since the information from the `songs` table, `artists` table and original log file are all needed for the `songplays` table. Since the log file does not specify an ID for either the song or the artist, I needed to get the song ID and artist ID by querying the `songs` and `artists` tables to find matches based on the song title, artist name, and the song’s duration time.
 
 To get data to songplays table is a test of `SQL knowledge`. So I will start with the insert query from the `sql_queries.py`, I joined songs and artists table using the conditions above to find songs that matches.
