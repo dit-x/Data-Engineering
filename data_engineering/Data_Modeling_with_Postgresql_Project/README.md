@@ -4,7 +4,7 @@ I have joined Udacity Data Engineer Nanodegree. The program consists of many rea
 They’d like a data engineer to create a Postgres database with tables designed to optimize queries on song play analysis and bring me on the project. My role is to create a database schema and ETL pipeline for this analysis. I’ve tested my database and ETL pipeline by running queries given to me by the analytics team from Sparkify and compare my results with their expected results.
 
 # Project Description
-In this project, I’ve applied what I’ve learned on data modeling with Postgres and build an ETL pipeline using Python. I’ve defined fact and dimension tables for a star schema for a particular analytic focus and written an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
+In this project, I’ve applied what I’ve learnt on data modeling with Postgres and build an ETL pipeline using Python. I’ve defined fact and dimension tables for a star schema for a particular analytic focus and written an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 
 # Song Dataset
 The first dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song’s track ID. Below is what a single song file looks like.
@@ -43,12 +43,12 @@ Using the song and log datasets, I’ve created a star schema optimized for quer
 **time —** timestamps of records in songplays broken down into the specific unit
 *start_time, hour, day, week, month, year, weekday*
 
-I added constrains and condition to the columns when creating the relational database. Below is the schema diagram for `Sparkify Database`
+I added constrains and condition on the columns when creating the relational database. Below is the schema diagram for `Sparkify Database`
 
 ![Screenshot (148)](https://user-images.githubusercontent.com/55639062/78468855-5e654300-7713-11ea-835a-54c1f0cdf048.png)
 
 # Project Template
-In addition to the data files, the project workspace includes six file:
+In addition to the data files, the project workspace includes five files:
 1. test.ipynb displays the first few rows of each table to check the database.
 1. create_tables.py drops and creates the tables. I run this file to reset my tables before each time I run my ETL scripts.
 1. etl.ipynb reads and processes a single file from song_data and log_data and loads the data into the tables. This notebook contains a detailed explanation of the ETL process for each of the tables.
