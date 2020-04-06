@@ -6,6 +6,8 @@ They’d like a data engineer to create a Postgres database with tables designed
 # Project Description
 In this project, I’ve applied what I’ve learnt on data modeling with Postgres and build an ETL pipeline using Python. I’ve defined fact and dimension tables for a star schema for a particular analytic focus and written an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL.
 
+Here is the link to my project review [Udacity Project Review](https://review.udacity.com/#!/reviews/2167879)
+
 # Song Dataset
 The first dataset is a subset of real data from the Million Song Dataset. Each file is in JSON format and contains metadata about a song and the artist of that song. The files are partitioned by the first three letters of each song’s track ID. Below is what a single song file looks like.
 
