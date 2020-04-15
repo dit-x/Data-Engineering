@@ -22,21 +22,21 @@ time_table_drop = "drop table if exists time"
 staging_events_table_create= ("""
     CREATE TABLE  staging_events_table (
             artist varchar,
-            auth varchar NOT NULL,
+            auth varchar,
             first_name varchar,
             gender char (1),
-            itemInSession int NOT NULL,
+            itemInSession int,
             last_name varchar,
             length numeric,
-            level varchar NOT NULL,
+            level varchar,
             location varchar,
-            method varchar NOT NULL,
-            page varchar NOT NULL,
+            method varchar,
+            page varchar,
             registration numeric,
-            session_id int NOT NULL,
+            session_id int,
             song varchar,
-            status int NOT NULL,
-            ts numeric NOT NULL,
+            status int,
+            ts numeric,
             user_agent varchar,
             user_id int
         )
@@ -44,16 +44,16 @@ staging_events_table_create= ("""
 
 staging_songs_table_create = (""" 
      CREATE TABLE staging_songs_table (
-            num_songs int NOT NULL,
-            artist_id char (18) NOT NULL,
-            artist_latitude varchar,
-            artist_longitude varchar,
+            num_songs int,
+            artist_id char (18),
+            artist_latitude float,
+            artist_longitude float,
             artist_location varchar,
-            artist_name varchar NOT NULL,
-            song_id char (18) NOT NULL,
-            title varchar NOT NULL,
-            duration numeric NOT NULL,
-            year int NOT NULL
+            artist_name varchar,
+            song_id char (18),
+            title varchar,
+            duration numeric,
+            year int
         )
 """)
 
@@ -74,7 +74,7 @@ songplay_table_create ="""CREATE TABLE IF NOT EXISTS songplays(
                     );"""
 
 user_table_create = """CREATE TABLE IF NOT EXISTS users(
-                        User_id INT NOT NULL PRIMARY KEY,
+                        User_id INT PRIMARY KEY,
                         first_name VARCHAR,
                         last_name VARCHAR,
                         gender VARCHAR NOT NULL,
@@ -82,7 +82,7 @@ user_table_create = """CREATE TABLE IF NOT EXISTS users(
                         );"""
 
 song_table_create = """CREATE TABLE IF NOT EXISTS songs(
-                        song_id VARCHAR NOT NULL PRIMARY KEY,
+                        song_id VARCHAR PRIMARY KEY,
                         title VARCHAR,
                         artist_id VARCHAR NOT NULL,
                         year INT NOT NULL,
@@ -90,16 +90,16 @@ song_table_create = """CREATE TABLE IF NOT EXISTS songs(
                         );"""
 
 artist_table_create = """CREATE TABLE IF NOT EXISTS artists(
-                        artist_id VARCHAR NOT NULL PRIMARY KEY,
+                        artist_id VARCHAR PRIMARY KEY,
                         artist_name VARCHAR NOT NULL,
                         location VARCHAR,
-                        latitude VARCHAR,
-                        longitude VARCHAR
+                        latitude FLOAT,
+                        longitude FLOAT
                         );"""
 
 
 time_table_create = """CREATE TABLE IF NOT EXISTS time(
-                        start_time TIMESTAMP NOT NULL PRIMARY KEY,
+                        start_time TIMESTAMP PRIMARY KEY,
                         hour INT NOT NULL,
                         day INT NOT NULL,
                         week_of_year INT NOT NULL,
@@ -138,7 +138,7 @@ staging_songs_copy = (
 songplay_table_insert = """INSERT INTO songplays(start_time, user_id, level, 
                             song_id, artist_id, session_id, 
                             location, user_agent)
-                    SELECT
+                    SELECT DISTINCT
                         TIMESTAMP 'epoch' + se.ts/1000 * INTERVAL '1 second' AS start_time, 
                         se.user_id, 
                         se.level, 
@@ -154,7 +154,7 @@ songplay_table_insert = """INSERT INTO songplays(start_time, user_id, level,
 
 user_table_insert = """INSERT INTO users(User_id, first_name, 
                         last_name, gender, level )
-                    SELECT    
+                    SELECT DISTINCT 
                         se.user_id,
                         se.first_name,
                         se.last_name,
@@ -166,7 +166,7 @@ user_table_insert = """INSERT INTO users(User_id, first_name,
 
 
 song_table_insert = """INSERT INTO songs
-                    SELECT 
+                    SELECT DISTINCT
                         ss.song_id,
                         ss.title,
                         ss.artist_id,
@@ -176,7 +176,7 @@ song_table_insert = """INSERT INTO songs
                     """
 
 artist_table_insert =  """INSERT INTO artists
-                    SELECT
+                    SELECT DISTINCT
                         ss.artist_id,
                         ss.artist_name,
                         ss.artist_location      AS location,
