@@ -1,0 +1,25 @@
+Task0.py
+The time complexity of task0.py is O(1). It is a constant time.
+
+
+Task1.py
+In this, I used two for-loops which is of different input (i.e calls(n) and texts(m)).
+Since the loops are different and take different input, the time complexity is additive
+The complexity is and the worst case O(n+m)
+
+
+Task2.py
+In this, I used two for-loops which means the alogrithm grows linearly as the input (calls) increases
+The time complexity for this and the worst case is O(n+m)
+wher "n" is the input of the first loop and "m" is the input of the second loop
+
+Task3.py
+In this, I used two for-loops of the same input lenght, one to generate the calls dictionary the second 
+to iterate over the rows. I also used a for-loop to print the sorted list.
+The time complexity and the worst case is O(n+n) + O(mlogm).
+
+
+Task4.py
+In this, I used four for-loops of different input lenght. The time complixity and the worst case is
+O(k+l+m+n) where the variables represent the inputs to the loop respectively. 
+It increase an any of the for-loop input length increases.
