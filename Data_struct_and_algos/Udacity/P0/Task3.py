@@ -61,27 +61,28 @@ for index, value in enumerate(dict_calls["calling number"]):
    
     if "(080)" == value[:5]:
         count_all += 1
-        received_from_bangalore = dict_calls["receiving number"][index]
+        receiving_number = dict_calls["receiving number"][index]
+        received_from_bangalore = receiving_number
 
         if "(080)" == received_from_bangalore[:5]:
           count_bangalore += 1
 
-    # Manipulating the telephone to get area code and the mobile prefixes
-    if ' ' in value:
-        area_code = value[:4]
+        # Manipulating the telephone to get area code and the mobile prefixes
+        if ' ' in receiving_number:
+            area_code = receiving_number[:4]
 
-    elif '(' in value:
-        for i, string in enumerate(value):
-            if string == ")":
-                break
-        area_code = value[:i+1]
+        elif '(' in receiving_number:
+            for i, string in enumerate(receiving_number):
+                if string == ")":
+                    break
+            area_code = receiving_number[:i+1]
 
-    else:
-        area_code = "140"
+        else:
+            area_code = "140"
 
 
-    if area_code not in called_by_bangalore:     
-        called_by_bangalore.append(area_code)
+        if area_code not in called_by_bangalore:     
+            called_by_bangalore.append(area_code)
 
 print("The numbers called by people in Bangalore have codes:")
 

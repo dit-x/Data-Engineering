@@ -30,6 +30,7 @@ for row in calls:
 
     # I made a list "all_diff_number" if the telephone number has been checked
     # If not, add telephone number to the list, this is to ensure with have unique number
+    # Check the calling number
     if row[0] not in all_diff_number:
         telephone_duration[row[0]] = int(row[3])
         all_diff_number.append(row[0])
@@ -38,15 +39,20 @@ for row in calls:
     else:
         telephone_duration[row[0]] = telephone_duration[row[0]] + int(row[3])
 
-        
+    # Check the receiving number
+    if row[1] not in all_diff_number:
+        telephone_duration[row[1]] = int(row[3])
+        all_diff_number.append(row[1])
+
+    else:
+        telephone_duration[row[1]] = telephone_duration[row[1]] + int(row[3])
+
+
 max_time = 0
 for telephone, duration in telephone_duration.items():
 
     # check condition
-    if duration > max_time: 
-        telephone, max_time = telephone, duration
+    if duration > max_time:
+        number, max_time = telephone, duration
 
-
-print(f"{telephone} spent the longest time, {max_time} seconds, on the phone during September 2016.")
-
-# 46232
+print(f"{number} spent the longest time, {max_time} seconds, on the phone during September 2016.")

@@ -19,7 +19,6 @@ Print a message:
 "There are <count> different telephone numbers in the records."
 """
 
-
 all_diff_number = []
 
 # This loop through all numbers in calls and select the distinct number
@@ -37,5 +36,5 @@ for row in texts:
     if row[1] not in all_diff_number:
         all_diff_number.append(row[1])
 
-
 print(f"There are {len(all_diff_number)} different telephone numbers in the records")
+
