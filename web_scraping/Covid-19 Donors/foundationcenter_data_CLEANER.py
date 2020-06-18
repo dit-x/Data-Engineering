@@ -1,7 +1,7 @@
 import pandas as pd
 import re
 
-df = pd.read_csv(r"C:\DiT\Programming\Git\Data-Engineering\web_scraping\Covid-19 Donors\covid19_Donors.csv")
+df = pd.read_csv("covid19_Donors.csv")
 
 def convert(x):
     if "B" in x:
