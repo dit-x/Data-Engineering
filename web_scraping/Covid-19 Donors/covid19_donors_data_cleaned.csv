@@ -1,0 +1,510 @@
+,funder_name,city,state,country,value_granted,no_of_grants
+0,Jack Dorsey,San Francisco,CA,United States,1000000000.0,1
+1,Google.Org Contributions Program,Mountain View,CA,United States,957800000.0,16
+2,Bill & Melinda Gates Foundation,Seattle,WA,United States,305000000.0,5
+3,Itau Unibanco Holding S.A.,Sao Paulo,,Brazil,239800000.0,1
+4,Visa Foundation,San Francisco,CA,United States,210000000.0,2
+5,Royal Holding Al Mada,Casablanca,,Morocco,197900000.0,1
+6,Wells Fargo Foundation,Minneapolis,MN,United States,182000000.0,5
+7,Tencent Holdings,Shenzhen,,China,173000000.0,2
+8,Alibaba Group,Hangzhou,,China,144200000.0,1
+9,Azim Premji Foundation,Bangalore,,India,130600000.0,1
+10,Open Society Foundations,New York City,NY,United States,130000000.0,1
+11,The Barclays Foundation,London,,United Kingdom,125800000.0,1
+12,"Facebook, Inc. Contributions Program",Menlo Park,CA,United States,122000000.0,7
+13,Bank of America Corporation Contributions Program,Charlotte,NC,United States,111500000.0,6
+14,Assicurazioni Generali S.P.A.,Trieste,,Italy,110100000.0,1
+15,Intesa Sanpaolo S.P.A.,Turin,,Italy,110100000.0,1
+16,The Robert Wood Johnson Foundation,Princeton,NJ,United States,100800000.0,40
+17,Michael & Susan Dell Foundation,Austin,TX,United States,100000000.0,2
+18,Blue Meridian Partners Inc.,New York City,NY,United States,100000000.0,1
+19,Jeff Skoll,Palo Alto,CA,United States,100000000.0,1
+20,Netflix,Los Gatos,CA,United States,100000000.0,1
+21,Warnermedia Corporate Giving Program,New York City,NY,United States,100000000.0,1
+22,Vale S.A.,Rio De Janeiro,,Brazil,96200000.0,1
+23,Naspers Limited,Cape Town,,South Africa,83400000.0,2
+24,Squirrel Ai Learning,Shanghai,,China,73500000.0,2
+25,Lilly Endowment Inc.,Indianapolis,IN,United States,69500000.0,6
+26,Wellcome Trust,London,,England,64900000.0,2
+27,Microsoft Corporation Contributions Program,Redmond,WA,United States,61900000.0,5
+28,Johann Rupert,Somerset West,,South Africa,55600000.0,1
+29,Mary Oppenheimer,Johannesburg,,South Africa,55600000.0,1
+30,Motsepe Family Foundation,Sandton,,South Africa,55600000.0,1
+31,Nicky Oppenheimer,Johannesburg,,South Africa,55600000.0,1
+32,"Community Foundation for Greater Atlanta, Inc.",Atlanta,GA,United States,55100000.0,319
+33,Bnp Paribas Usa,New York City,NY,United States,55000000.0,1
+34,"Albertsons Companies, Inc. Contributions Program",Boise,ID,United States,53000000.0,1
+35,Cogna Educacao S.A.,Belo Horizonte,,Brazil,51300000.0,1
+36,Jpmorgan Chase & Co. Contributions Program,New York City,NY,United States,51000000.0,2
+37,"The Humana Foundation, Inc.",Louisville,KY,United States,50500000.0,3
+38,"Bloomberg Philanthropies, Inc.",New York City,NY,United States,50500000.0,2
+39,"Blackrock, Inc. Contributions Program",New York City,NY,United States,50000000.0,1
+40,Lego Fonden,Billund,,Denmark,50000000.0,1
+41,New York Life Foundation,New York City,NY,United States,50000000.0,1
+42,Otto Bremer Trust,Saint Paul,MN,United States,50000000.0,1
+43,Razer Inc.,Singapore,,Singapore,50000000.0,1
+44,"Pepsico, Inc. Corporate Giving Program",Purchase,NY,United States,45000000.0,1
+45,Tencent Charity Foundation,Shenzhen,,China,43300000.0,1
+46,Carlos Slim Foundation,Mexico City,,Mexico,42000000.0,1
+47,Pfizer Inc. Corporate Giving Program,New York City,NY,United States,40000000.0,1
+48,Fundacion Mapfre,Madrid,,Spain,38200000.0,3
+49,The Omidyar Group,Honolulu,HI,United States,37000000.0,3
+50,Abbvie Inc. Contributions Program,North Chicago,IL,United States,36400000.0,2
+51,Citigroup Inc. Corporate Giving Program,New York City,NY,United States,36000000.0,2
+52,"Amazon.Com, Inc. Contributions Program",Seattle,WA,United States,33000000.0,9
+53,T J Morris Limited,Liverpool,,United Kingdom,32900000.0,1
+54,Robert W. Woodruff Foundation,Atlanta,GA,United States,31300000.0,6
+55,Alwaleed Philanthropies,Riyadh,,Saudi Arabia,30000000.0,10
+56,The Pnc Foundation,Pittsburgh,PA,United States,30000000.0,2
+57,U.S. Bank N.A. Corporate Giving Program,Saint Paul,MN,United States,30000000.0,1
+58,Samsung Group Corporate Giving Program,Seoul,,South Korea,29700000.0,2
+59,Citi Foundation,New York City,NY,United States,29500000.0,5
+60,"Qurate Retail, Inc.",Englewood,CO,United States,29000000.0,1
+61,Country Garden Holdings Company,Foshan,,China,28800000.0,1
+62,Meituan Dianping,Beijing,,China,28800000.0,1
+63,Zhejiang Geely Holding Group Co.,Hangzhou,,China,28800000.0,1
+64,"Banco Bilbao Vizcaya Argentaria, S.A.",Bilbao,,Spain,27900000.0,1
+65,Metlife Foundation,New York City,NY,United States,26000000.0,2
+66,The James Irvine Foundation,San Francisco,CA,United States,25600000.0,57
+67,Cigna Foundation,Philadelphia,PA,United States,25300000.0,3
+68,Truist Financial Corporation Contributions Program,Winston-Salem,NC,United States,25300000.0,4
+69,Morgan Stanley Corporate Giving Program,New York City,NY,United States,25000000.0,5
+70,Avast Foundation,Prague,,Czech Republic,25000000.0,3
+71,Lam Research Corporation Contributions Program,Fremont,CA,United States,25000000.0,1
+72,"Merck & Co., Inc. Contributions Program",Kenilworth,NJ,United States,23400000.0,4
+73,Snam S.P.A.,San Donato Milanese,,Italy,22000000.0,1
+74,Conrad N. Hilton Foundation,Agoura Hills,CA,United States,21200000.0,21
+75,The Ups Foundation,Atlanta,GA,United States,21000000.0,2
+76,"Mars, Incorporated, Contributions Program",Mclean,VA,United States,20000000.0,4
+77,Novartis Ag,Basel,,Switzerland,20000000.0,1
+78,Richard King Mellon Foundation,Pittsburgh,PA,United States,19200000.0,46
+79,Procter & Gamble Company Contributions Program,Cincinnati,OH,United States,17500000.0,4
+80,Amd Corporate Giving Program,Austin,TX,United States,17000000.0,3
+81,Direct Relief,Santa Barbara,CA,United States,17000000.0,2
+82,Apple Inc. Contributions Program,Cupertino,CA,United States,15000000.0,1
+83,Ebay Foundation,San Jose,CA,United States,15000000.0,1
+84,Patty Quillin,Los Gatos,CA,United States,15000000.0,1
+85,The Mondelez International Foundation,Deerfield,IL,United States,15000000.0,1
+86,Future Education Group,Beijing,,China,14400000.0,2
+87,Beijing Kuaishou Technology Co.,Beijing,,China,14400000.0,1
+88,Midea Group,Foshan,,China,14400000.0,1
+89,Tal Education Group,Beijing,,China,14400000.0,1
+90,United Bank for Africa Foundation,Lagos,,Nigeria,14000000.0,1
+91,Jsw Group,Mumbai,,India,13100000.0,1
+92,Wipro Limited,Bangalore,,India,13100000.0,1
+93,Hero Cycles Ltd.,,,India,13100000.0,1
+94,"Madison Dearborn Partners, Llc",Chicago,IL,United States,13000000.0,1
+95,Li Ka Shing Foundation,,,China,12900000.0,1
+96,Amgen Inc. Corporate Giving Program,Thousand Oaks,CA,United States,12500000.0,1
+97,Macquarie Group Limited,Sydney,,Australia,12500000.0,2
+98,Kraft Heinz Company Contributions Program,Pittsburgh,PA,United States,12000000.0,2
+99,Ferrero Spa,Alba,,Italy,11100000.0,1
+100,United Way of Greater Atlanta,Atlanta,GA,United States,11000000.0,73
+101,3M Company Contributions Program,Saint Paul,MN,United States,11000000.0,2
+102,Target Corporation Contributions Program,Minneapolis,MN,United States,11000000.0,2
+103,Tetra Laval International,Pully,,Switzerland,10900000.0,1
+104,Moncler S.P.A.,Trebaseleghe,,Italy,10700000.0,1
+105,Silvio Berlusconi,Rome,,Italy,10700000.0,1
+106,Starbucks Corporation Contributions Program,Seattle,WA,United States,10400000.0,2
+107,Nestle S.A.,Vevey,,Switzerland,10300000.0,1
+108,Citadel Llc,Chicago,IL,United States,10000000.0,3
+109,At&T Inc. Contributions Program,Dallas,TX,United States,10000000.0,2
+110,Oprah Winfrey,Chicago,IL,United States,10000000.0,2
+111,Chubb Charitable Foundation,Philadelphia,PA,United States,10000000.0,1
+112,Cognizant Technology Solutions Corporation Contributions Program,Teaneck,NJ,United States,10000000.0,1
+113,"Intercontinental Exchange, Inc. Contributions Program",Atlanta,GA,United States,10000000.0,1
+114,Mary Kay Cosmetics Corporate Contributions Program,Addison,TX,United States,10000000.0,1
+115,Spotify,Stockholm,,Sweden,10000000.0,1
+116,The William and Flora Hewlett Foundation,Menlo Park,CA,United States,10000000.0,1
+117,Cosumar Sa,Casablanca,,Morocco,9900000.0,1
+118,Suzano S.A.,Salvador,,Brazil,9600000.0,1
+119,Banco Btg Pactual S.A.,Sao Paulo,,Brazil,9600000.0,1
+120,Bhp Group,Melbourne,,Australia,9400000.0,2
+121,The San Diego Foundation,San Diego,CA,United States,9300000.0,95
+122,Reckitt Benckiser,Hull,,United Kingdom,9300000.0,2
+123,King Baudouin Foundation United States,New York City,NY,United States,9200000.0,50
+124,The Fifth Third Foundation,Cincinnati,OH,United States,9000000.0,2
+125,Petrobras Distribuidora S.A.,Rio De Janeiro,,Brazil,8700000.0,1
+126,China Faw Group Co.,Changchun,,China,8700000.0,1
+127,Dashang Co.,Dalian,,China,8700000.0,1
+128,Clara Lionel Foundation,Brooklyn,NY,United States,8100000.0,3
+129,Lvmh Moet Hennessy,Paris,,France,7900000.0,2
+130,Banco Do Brasil S.A.,Brasilia,,Brazil,7700000.0,1
+131,Banco Votorantim S.A.,Sao Paulo,,Brazil,7700000.0,1
+132,Novo Nordisk Foundation,Hellerup,,Denmark,7400000.0,1
+133,The Philadelphia Foundation,Philadelphia,PA,United States,7300000.0,194
+134,The Andrew W. Mellon Foundation,New York City,NY,United States,7000000.0,4
+135,"The Coca-Cola Foundation, Inc.",Atlanta,GA,United States,7000000.0,2
+136,Eastern Bank,Boston,MA,United States,7000000.0,1
+137,Stoneco Ltd.,Sao Paulo,,Brazil,6800000.0,2
+138,Hyundai Motor Company Corpoarte Giving Program,Seoul,,South Korea,6400000.0,2
+139,The Virginia G. Piper Charitable Trust,Phoenix,AZ,United States,6200000.0,68
+140,"S. C. Johnson & Son, Inc. Corporate Giving Program",Racine,WI,United States,6100000.0,3
+141,The California Wellness Foundation,Los Angeles,CA,United States,6000000.0,25
+142,Cisco Systems Foundation,San Jose,CA,United States,6000000.0,3
+143,Intel Foundation,Hillsboro,OR,United States,6000000.0,2
+144,The William Penn Foundation,Philadelphia,PA,United States,6000000.0,2
+145,Liberty Mutual Group Corporate Giving Program,Boston,MA,United States,5900000.0,4
+146,Exelon Corporation Contributions Program,Chicago,IL,United States,5700000.0,2
+147,Marguerite Casey Foundation,Seattle,WA,United States,5600000.0,117
+148,The Paul Ramsay Foundation,St Leonards,,Australia,5500000.0,4
+149,"The Travelers Companies, Inc. Contributions Program",Hartford,CT,United States,5500000.0,2
+150,Ennio Doris,Basiglio,,Italy,5400000.0,1
+151,Tod'S S.P.A.,Sant'Elpidio A Mare,,Italy,5400000.0,1
+152,It'S A 10 Haircare,Fort Lauderdale,FL,United States,5400000.0,1
+153,Kansas Health Foundation,Wichita,KS,United States,5300000.0,4
+154,Dongfeng Motor Group,Wuhan,,China,5200000.0,1
+155,Hill-Rom Holdings,Chicago,IL,United States,5100000.0,3
+156,Bmw Brilliance Automotive Ltd.,Shenyang,,China,5000000.0,1
+157,The Rite Aid Foundation,Camp Hill,PA,United States,5000000.0,8
+158,Novartis Us Foundation,New York City,NY,United States,5000000.0,4
+159,The Clorox Company Foundation,Oakland,CA,United States,5000000.0,3
+160,"Kimberly-Clark Foundation, Inc.",Irving,TX,United States,5000000.0,2
+161,Bridgewater Associates,Westport,CT,United States,5000000.0,1
+162,"Citizens Bank, N.A. Corporate Giving Program",Providence,RI,United States,5000000.0,1
+163,"Dalio Foundation, Inc.",Westport,CT,United States,5000000.0,1
+164,Delta Dental Community Care Foundation,San Francisco,CA,United States,5000000.0,1
+165,James M. Cox Foundation,Milwaukee,WI,United States,5000000.0,1
+166,Share Our Strength,Washington,DC,United States,5000000.0,1
+167,Texas Instruments Foundation,Dallas,TX,United States,5000000.0,1
+168,The California Endowment,Los Angeles,CA,United States,5000000.0,1
+169,The Coca-Cola Company Contributions Program,Atlanta,GA,United States,5000000.0,1
+170,The Leona M. and Harry B. Helmsley Charitable Trust,New York City,NY,United States,4700000.0,1
+171,Kotak Mahindra Bank Limited,,,India,4500000.0,2
+172,Asian Paints Corporate Giving Program,Mumbai,,India,4500000.0,1
+173,Abbott Laboratories Corporate Giving Program,Abbott Park,IL,United States,4500000.0,1
+174,Dangote Foundation,Ikoyi,,Nigeria,4300000.0,2
+175,Guangdong Oppo Mobile Telecommunications Corp.,Dongguan,,China,4300000.0,1
+176,Vivo Communication Technology Co.,Dongguan,,China,4300000.0,1
+177,Center for Disaster Philanthropy,Washington,DC,United States,4300000.0,19
+178,Lg Corp.,Seoul,,South Korea,4200000.0,1
+179,Dell Inc. Corporate Giving Program,Round Rock,TX,United States,4100000.0,3
+180,Nike Foundation,Beaverton,OR,United States,4100000.0,6
+181,Mile High United Way,Denver,CO,United States,4000000.0,170
+182,Harvard Pilgrim Health Care Foundation,Wellesley,MA,United States,4000000.0,22
+183,Bacardi & Company Limited Contributions Program,,,Bermuda,4000000.0,2
+184,"Nextera Energy, Inc. Contributions Program",Juno Beach,FL,United States,4000000.0,1
+185,W. M. Keck Foundation,Los Angeles,CA,United States,4000000.0,1
+186,Shimao Property Holdings,,,Hong Kong,3900000.0,1
+187,Suncity Group Holdings,Hong Kong,,Hong Kong,3800000.0,1
+188,Bbva Usa Corporate Giving Program,Birmingham,AL,United States,3700000.0,1
+189,"The Harry and Jeanette Weinberg Foundation, Inc.",Owings Mills,MD,United States,3500000.0,55
+190,L'Oreal Group Corporate Giving Program,Clichy,,France,3400000.0,2
+191,Bua Group,Lagos,,Nigeria,3300000.0,2
+192,Edizione S.R.L.,Treviso,,Italy,3300000.0,1
+193,Wipro Enterprises Limited,,,India,3300000.0,1
+194,The Kroger Co. Zero Hunger Zero Waste Foundation,Cincinnati,OH,United States,3300000.0,3
+195,Akshay Kumar,Mumbai,,India,3200000.0,1
+196,Uday Kotak,Mumbai,,India,3200000.0,1
+197,Galaxy Entertainment Group,,,Hong Kong,3100000.0,1
+198,The Wilbur and Hilda Glenn Family Foundation,Atlanta,GA,United States,3000000.0,52
+199,Twilio.Org,San Francisco,CA,United States,3000000.0,4
+200,"Gilead Sciences, Inc. Contributions Program",Foster City,CA,United States,3000000.0,3
+201,Phillips 66 Corporate Giving Program,Houston,TX,United States,3000000.0,3
+202,H.E. Butt Grocery Company Contributions Program,San Antonio,TX,United States,3000000.0,2
+203,Cambia Health Foundation,Portland,OR,United States,3000000.0,1
+204,The Dow Chemical Company Contributions Program,Midland,MI,United States,3000000.0,1
+205,The Merck Company Foundation,Kenilworth,NJ,United States,3000000.0,1
+206,Xylem Watermark Corporate Giving Program,Rye Brook,NY,United States,3000000.0,1
+207,Foundation for the Carolinas,Charlotte,NC,United States,2900000.0,50
+208,United Way of Central Carolinas Inc,Charlotte,NC,United States,2900000.0,48
+209,Sf Express Group,Shanghai,,China,2900000.0,1
+210,Pricewaterhouse Coopers Charitable Foundation,New York City,NY,United States,2900000.0,4
+211,Ge Healthcare,Chicago,IL,United States,2800000.0,1
+212,Seddiqi Holding,Dubai,,United Arab Emirates,2700000.0,1
+213,Robert L. Moody Foundation,Galveston,TX,United States,2700000.0,3
+214,Ani Technologies Private Limited,Bangalore,,India,2600000.0,1
+215,Drew Brees,Metairie,LA,United States,2500000.0,1
+216,Sands Cares,Las Vegas,NV,United States,2500000.0,1
+217,Sjm Holdings,Hong Kong,,Hong Kong,2500000.0,1
+218,"U.S. Foods, Inc. Contributions Program",Rosemont,IL,United States,2500000.0,1
+219,Anhui Jianghuai Automobile Group Co.,Hefei,,China,2500000.0,1
+220,Tipping Point Community,San Francisco,CA,United States,2500000.0,26
+221,Boston Foundation Inc,Boston,MA,United States,2300000.0,91
+222,Qualcomm Charitable Foundation,San Diego,CA,United States,2200000.0,5
+223,Ipsen S.A.,Boulogne-Billancourt,,France,2200000.0,1
+224,China Resources Beer (Holdings) Company Limited,,,Hong Kong,2200000.0,1
+225,Qihoo 360 Technology Co.,Beijing,,China,2200000.0,1
+226,Siemens Healthineers China,Beijing,,China,2200000.0,1
+227,Kering,Paris,,France,2100000.0,2
+228,Overdeck Family Foundation,New York,NY,United States,2000000.0,16
+229,Oregon Community Foundation,Portland,OR,United States,2000000.0,34
+230,New Balance Foundation,Boston,MA,United States,2000000.0,7
+231,State Farm Mutual Automobile Insurance Company Contributions Program,Bloomington,IL,United States,2000000.0,4
+232,"Kia Motors America, Inc. Contributions Program",Irvine,CA,United States,2000000.0,2
+233,Southern California Gas Company Contributions Program,Los Angeles,CA,United States,2000000.0,2
+234,"Under Armour, Inc. Contributions Program",Baltimore,MD,United States,2000000.0,2
+235,American Heart Association,Dallas,TX,United States,2000000.0,1
+236,"Coach Foundation, Inc.",New York City,NY,United States,2000000.0,1
+237,Houston Endowment,Houston,TX,United States,2000000.0,1
+238,Kla-Tencor Foundation,Milpitas,CA,United States,2000000.0,1
+239,"Nrg Energy, Inc. Contributions Program",Princeton,NJ,United States,2000000.0,1
+240,Rasmuson Foundation,Anchorage,AK,United States,2000000.0,1
+241,"Tapestry, Inc.",New York City,NY,United States,2000000.0,1
+242,The New York State Health Foundation,New York City,NY,United States,2000000.0,1
+243,Western Alliance Bank,Phoenix,AZ,United States,2000000.0,1
+244,Community Foundation of Greater Memphis,Memphis,TN,United States,2000000.0,107
+245,Beijing Yanjing Brewery Co.,Beijing,,China,1900000.0,2
+246,Chronicle Season of Sharing,San Francisco,CA,United States,1900000.0,1
+247,Greater Milwaukee Foundation,Milwaukee,WI,United States,1900000.0,97
+248,Sempra Energy Foundation,San Diego,CA,United States,1800000.0,1
+249,Delaware Community Foundation,Wilmington,DE,United States,1700000.0,79
+250,Duke Energy Foundation,Charlotte,NC,United States,1700000.0,4
+251,"Chewy, Inc.",Dania Beach,FL,United States,1700000.0,1
+252,Charles Stewart Mott Foundation,Flint,MI,United States,1700000.0,7
+253,United States Federal Aviation Administration,Washington,DC,United States,1600000.0,2
+254,Sierra Health Foundation,Sacramento,CA,United States,1600000.0,28
+255,Bayer Corporation Contributions Program,Whippany,NJ,United States,1600000.0,2
+256,Shiseido Corporate Giving Program,Tokyo,,Japan,1600000.0,2
+257,Gates Family Foundation,Denver,CO,United States,1500000.0,20
+258,Ecmc Foundation,Minneapolis,MN,United States,1500000.0,4
+259,Horizon Therapeutics Plc,Dublin,,Ireland,1500000.0,3
+260,Greater Cincinnati Foundation,Cincinnati,OH,United States,1500000.0,2
+261,Kate B. Reynolds Charitable Trust,Raleigh,NC,United States,1500000.0,2
+262,"Northwestern Mutual Foundation, Inc.",Milwaukee,WI,United States,1500000.0,2
+263,American Electric Power Foundation,Columbus,OH,United States,1500000.0,1
+264,Burns & Mcdonnell Foundation,Kansas City,MO,United States,1500000.0,1
+265,Huami Inc.,Mountain View,CA,United States,1500000.0,1
+266,Bilibili Inc.,,,China,1500000.0,2
+267,Semiconductor Manufacturing International Corporation,Shanghai,,China,1400000.0,2
+268,Adrian Cheng,,,Hong Kong,1400000.0,1
+269,Beijing Mercedes-Benz Sales Service Co.,Beijing,,China,1400000.0,1
+270,Binance Holdings Ltd.,,,Cayman Islands,1400000.0,1
+271,Boe Technology Group Co.,Beijing,,China,1400000.0,1
+272,Byd Co. Ltd.,Shenzhen,,China,1400000.0,1
+273,Chery Automobile Co.,Wuhu,,China,1400000.0,1
+274,Danaher Corporation Contributions Program,Washington,DC,United States,1400000.0,1
+275,Douyu International Holdings,Wuhan,,China,1400000.0,1
+276,Iflytek Co.,Hefei,,China,1400000.0,1
+277,"Nike, Inc. Corporate Giving Program",Beaverton,OR,United States,1400000.0,1
+278,Smilegate Holdings,,,South Korea,1400000.0,1
+279,Toyota Motor Corporation Contributions Program,Toyota,,Japan,1400000.0,1
+280,Giorgio Armani,Milano,,Italy,1400000.0,1
+281,Sunon Charity Foundation,Hangzhou,,China,1400000.0,1
+282,Ping An Insurance Group,Shenzhen,,China,1400000.0,1
+283,Walter and Elise Haas Fund,San Francisco,CA,United States,1400000.0,54
+284,A2 Milk Company,,,New Zealand,1300000.0,2
+285,Anil Agarwal,Mumbai,,India,1300000.0,1
+286,Hermes Uk,Morley,,United Kingdom,1300000.0,1
+287,Saras S.P.A.,Milano,,Italy,1300000.0,1
+288,"William G. Mcgowan Charitable Fund, Inc.",Chicago,IL,United States,1300000.0,14
+289,J.K. Rowling,Edinburgh,,United Kingdom,1300000.0,2
+290,Meg-Star International,Macau,,Macao,1200000.0,1
+291,Medtronic Communities Foundation,Minneapolis,MN,United States,1200000.0,1
+292,Wallace Global Fund Ii,Washington,DC,United States,1200000.0,1
+293,New York Life Insurance Company Contributions Program,New York City,NY,United States,1200000.0,4
+294,Healthcare Foundation of New Jersey Inc,Millburn,NJ,United States,1200000.0,35
+295,Chery Jaguar Land Rover,Shanghai,,China,1200000.0,1
+296,Unidea-Unicredit Foundation,Milano,,Italy,1100000.0,1
+297,"Lego Systems, Inc. Corporate Giving Program",Enfield,CT,United States,1100000.0,2
+298,"Xilinx, Inc. Contributions Program",San Jose,CA,United States,1100000.0,1
+299,Cristiano Ronaldo,,,Portugal,1100000.0,1
+300,Lionel Messi,,,Argentina,1100000.0,2
+301,Banca Mediolanum S.P.A.,Basiglio,,Italy,1100000.0,1
+302,Unihealth Foundation,Los Angeles,CA,United States,1100000.0,4
+303,"United Way of Forsyth County, Inc.",Winston-Salem,NC,United States,1100000.0,15
+304,The Minneapolis Foundation,Minneapolis,MN,United States,1000000.0,71
+305,Boehringer Ingelheim Corporate Giving Program,Ridgefield,CT,United States,1000000.0,3
+306,Ricoh Group,Tokyo,,Japan,1000000.0,1
+307,Horizon Foundation of Howard County Inc,Columbia,MD,United States,1000000.0,8
+308,Baltimore Ravens Corporate Giving Program,Owings Mills,MD,United States,1000000.0,4
+309,"Altria Group, Inc. Contributions Program",Richmond,VA,United States,1000000.0,2
+310,Major League Baseball Corporate Giving Program,New York City,NY,United States,1000000.0,2
+311,Pink,New York City,NY,United States,1000000.0,2
+312,"The Pfizer Foundation, Inc.",New York City,NY,United States,1000000.0,2
+313,Adt,Boca Raton,FL,United States,1000000.0,1
+314,American Express Company Contributions Program,New York City,NY,United States,1000000.0,1
+315,Angelina Jolie,Los Angeles,CA,United States,1000000.0,1
+316,Anthem,Indianapolis,IN,United States,1000000.0,1
+317,Archer Daniels Midland Company Contributions Program,Chicago,IL,United States,1000000.0,1
+318,Arnold Schwarzenegger,Los Angeles,CA,United States,1000000.0,1
+319,Audible,Newark,NJ,United States,1000000.0,1
+320,Avon Foundation,New York City,NY,United States,1000000.0,1
+321,Banyan Medical Systems,Omaha,NE,United States,1000000.0,1
+322,"Blue Cross and Blue Shield of Texas, Inc. Contributions Program",Richardson,TX,United States,1000000.0,1
+323,Boaz Weinstein,New York City,NY,United States,1000000.0,1
+324,Bruno Mars,Los Angeles,CA,United States,1000000.0,1
+325,Community First Foundation,Arvada,CO,United States,1000000.0,1
+326,Dolly Parton,Nashville,TN,United States,1000000.0,1
+327,Draftkings Inc.,Boston,MA,United States,1000000.0,1
+328,"Equitable Foundation, Inc.",New York City,NY,United States,1000000.0,1
+329,Ford Foundation,New York City,NY,United States,1000000.0,1
+330,Hawaii Community Foundation,Honolulu,HI,United States,1000000.0,1
+331,Hillman Family Foundations,Pittsburgh,PA,United States,1000000.0,1
+332,"Hitachi, Ltd. Corporate Giving Program",Tokyo,,Japan,1000000.0,1
+333,Hp Foundation,Palo Alto,CA,United States,1000000.0,1
+334,"Ilitch Holdings, Inc.",Detroit,MI,United States,1000000.0,1
+335,Jewish Communal Fund,New York,NY,United States,1000000.0,1
+336,John M. Belk Educational Endowment,Charlotte,NC,United States,1000000.0,1
+337,Kylie Jenner,Oxnard,CA,United States,1000000.0,1
+338,Longwood Foundation,Wilmington,DE,United States,1000000.0,1
+339,Medica Foundation,Minnetonka,MN,United States,1000000.0,1
+340,Micky and Madeleine Arison Family Foundation,Coral Gables,FL,United States,1000000.0,1
+341,Millercoors Llc Contributions Program,Chicago,IL,United States,1000000.0,1
+342,Morgridge Family Foundation,Denver,CO,United States,1000000.0,1
+343,New York Jets Corporate Giving Program,Florham Park,NJ,United States,1000000.0,1
+344,Nisource Charitable Foundation,Columbus,OH,United States,1000000.0,1
+345,Omidyar Network India Advisors Private Limited,,,India,1000000.0,1
+346,Owl Rock Capital Corporation,New York City,NY,United States,1000000.0,1
+347,Pamlico Capital,Charlotte,NC,United States,1000000.0,1
+348,"Petsmart Charities, Inc.",Phoenix,AZ,United States,1000000.0,1
+349,Protective Life Foundation,Birmingham,AL,United States,1000000.0,1
+350,Quantitative Foundation,Charlottesville,VA,United States,1000000.0,1
+351,"Samsung Electronics America, Inc. Contributions Program",Ridgefield Park,NJ,United States,1000000.0,1
+352,Sempra Energy Corporate Giving Program,San Diego,CA,United States,1000000.0,1
+353,Silicon Valley Community Foundation,Mountain View,CA,United States,1000000.0,1
+354,Sundar Pichai,Mountain View,CA,United States,1000000.0,1
+355,Te Connectivity Foundation,Berwyn,PA,United States,1000000.0,1
+356,The Blackstone Charitable Foundation,New York City,NY,United States,1000000.0,1
+357,"The Carroll and Milton Petrie Foundation, Inc.",New York City,NY,United States,1000000.0,1
+358,The Columbus Foundation,Columbus,OH,United States,1000000.0,1
+359,"The David Tepper Charitable Foundation, Inc.",Short Hills,NJ,United States,1000000.0,1
+360,The Morris and Gwendolyn Cafritz Foundation,Washington,DC,United States,1000000.0,1
+361,The Roald Dahl Story Company Ltd,London,,United Kingdom,1000000.0,1
+362,The Shawn Carter Scholarship Fund,Miami,FL,United States,1000000.0,1
+363,"The Williams Companies Foundation, Inc.",Tulsa,OK,United States,1000000.0,1
+364,"Ubs (China) Co., Ltd.",Beijing,,China,1000000.0,1
+365,Umpqua Bank Corporate Giving Program,Roseburg,OR,United States,1000000.0,1
+366,"Varian Medical Systems, Inc. Contributions Program",Palo Alto,CA,United States,1000000.0,1
+367,Vita Coco,New York City,NY,United States,1000000.0,1
+368,Mohamed V Foundation for Solidarity,Rabat,,Morocco,989560.0,1
+369,Iowa West Foundation,Council Bluffs,IA,United States,929654.0,18
+370,Siasun Robot and Automation Co.,Shenyang,,China,879620.0,1
+371,Zhejiang Medicine Co.,Shaoxing,,China,879620.0,1
+372,Absa Bank Limited,Johannesburg,,South Africa,821078.0,1
+373,Community Foundation Sonoma County,Santa Rosa,CA,United States,805000.0,1
+374,Community Foundation for South Central New York,Johnson City,NY,United States,122500.0,11
+375,Santa Fe Community Foundation,Santa Fe,NM,United States,120000.0,2
+376,Fc Internazionale Milano,Milano,,Italy,113226.0,1
+377,Community Foundation of Central Illinois,Peoria,IL,United States,101000.0,20
+378,Open Hearts Foundation,Malibu,CA,United States,100000.0,6
+379,The Rippel Foundation,Morristown,NJ,United States,100000.0,2
+380,American Water Charitable Foundation Inc.,Camden,NJ,United States,100000.0,1
+381,Blue Mountain Community Foundation,Walla Walla,WA,United States,100000.0,1
+382,Colin Kaepernick,,CA,United States,100000.0,1
+383,Donald J. Trump,Washington,DC,United States,100000.0,1
+384,Gwyneth Paltrow,Santa Monica,CA,United States,100000.0,1
+385,Houston Texans Foundation,Houston,TX,United States,100000.0,1
+386,Mardag Foundation,Saint Paul,MN,United States,100000.0,1
+387,Pasadena Community Foundation,Pasadena,CA,United States,100000.0,1
+388,Premera Cares Program Contributions Program,Mountlake Terrace,WA,United States,100000.0,1
+389,"St. Louis Community Foundation, Inc.",St. Louis,MO,United States,100000.0,1
+390,Walgreens Corporate Giving Program,Deerfield,IL,United States,100000.0,1
+391,Whatcom Community Foundation,Bellingham,WA,United States,100000.0,1
+392,Hyundai Jiangsu Construction Machinery,Changzhou,,China,97661.0,1
+393,Idaho Community Foundation,Boise,ID,United States,96375.0,8
+394,"Betty and Davis Fitzgerald Foundation, Inc.",Atlanta,GA,United States,95000.0,12
+395,United Way of Iredell County Inc,Statesville,NC,United States,88500.0,7
+396,"John H. and Wilhelmina D. Harland Charitable Foundation, Inc.",Atlanta,GA,United States,75000.0,3
+397,Becu,Tukwila,WA,United States,75000.0,1
+398,Caterpillar Foundation,Peoria,IL,United States,75000.0,1
+399,Mettler-Toledo Changzhou Measurement Technology,Changzhou,,China,72100.0,1
+400,The Tinker Foundation Inc.,New York City,NY,United States,70000.0,5
+401,The Ian Potter Foundation,Melbourne,,Australia,69740.0,2
+402,Community Foundation of Henderson County,Hendersonville,NC,United States,63000.0,11
+403,United Way of Henderson County,Hendersonville,NC,United States,59000.0,8
+404,S. H. Cowell Foundation,San Francisco,CA,United States,55000.0,3
+405,Whitefish Community Foundation,Whitefish,MT,United States,52500.0,7
+406,"The United Way of Central Illinois, Inc.",Springfield,IL,United States,51000.0,6
+407,Gaylord and Dorothy Donnelley Foundation,Chicago,IL,United States,50000.0,2
+408,Berrien Community Foundation Inc,Saint Joseph,MI,United States,50000.0,1
+409,Community Foundation of San Benito County,Hollister,CA,United States,50000.0,1
+410,"Northern New York Community Foundation, Inc.",Watertown,NY,United States,50000.0,1
+411,Spectrum Health Lakeland,Grand Rapids,MI,United States,50000.0,1
+412,Tesh Durvasula,Dallas,TX,United States,50000.0,1
+413,The Hanson Family Foundation,Saint Joseph,MI,United States,50000.0,1
+414,The Savannah Community Foundation,Savannah,GA,United States,50000.0,1
+415,Whirlpool Corporation Contributions Program,Benton Harbor,MI,United States,50000.0,1
+416,Community Foundation of the Ozarks Inc,Springfield,MO,United States,47500.0,8
+417,Blandin Foundation,Grand Rapids,MN,United States,45000.0,3
+418,"Pseg Foundation, Inc.",Newark,NJ,United States,45000.0,1
+419,Black Hills Area Community Foundation,Rapid City,SD,United States,40000.0,8
+420,Los Altos Community Foundation,Los Altos,CA,United States,40000.0,1
+421,Outer Banks Community Foundation Inc,Southern Shores,NC,United States,31788.0,2
+422,Louis C.K.,New York City,NY,United States,30000.0,1
+423,Archstone Foundation,Long Beach,CA,United States,25000.0,1
+424,"Greater Green Bay Community Foundation, Inc.",Green Bay,WI,United States,25000.0,1
+425,Greenwich United Way,Greenwich,CT,United States,25000.0,1
+426,Mary S. & David C. Corbin Foundation,Akron,OH,United States,25000.0,1
+427,Societe Generale Group,Paris,,France,21630.0,1
+428,United Way of Bucks County,Fairless Hills,PA,United States,20000.0,4
+429,La Crosse Community Foundation,La Crosse,WI,United States,20000.0,1
+430,Dreamoval Limited,,,Ghana,17241.0,1
+431,Lamb Foundation,Lake Oswego,OR,United States,16100.0,5
+432,The Hudson Foundation,Portland,ME,United States,15000.0,1
+433,Esmee Fairbairn Foundation,London,,England,12455.0,1
+434,Marietta Community Foundation,Marietta,OH,United States,12000.0,3
+435,Greater Lowell Community Foundation,Lowell,MA,United States,10000.0,1
+436,Owatonna Foundation,Owatonna,MN,United States,10000.0,1
+437,Community Foundation for Northeast Georgia,Duluth,GA,United States,351425.0,26
+438,Bd Corporate Giving Program,Franklin Lakes,NJ,United States,350000.0,2
+439,Wesbanco Bank,Wheeling,WV,United States,350000.0,1
+440,Conocophillips Corporate Giving Program,Houston,TX,United States,345000.0,4
+441,The Foundation for Delaware County,Media,PA,United States,344755.0,38
+442,Melco Resorts & Entertainment,Hong Kong,,Hong Kong,334780.0,1
+443,United Way Summit County,Akron,OH,United States,310000.0,16
+444,Doterra International,Pleasant Grove,UT,United States,302820.0,1
+445,Ball Brothers Foundation,Muncie,IN,United States,300000.0,42
+446,Chevron Corporation Contributions Program,San Ramon,CA,United States,300000.0,1
+447,Texas Instruments Incorporated Contributions Program,Dallas,TX,United States,300000.0,1
+448,Mcknight Foundation,Minneapolis,MN,United States,290000.0,4
+449,Bnp Paribas (China),Shanghai,,China,288400.0,2
+450,Amorepacific Corporation,Seoul,,South Korea,288400.0,1
+451,"Cargill, Incorporated Contributions Program",Minneapolis,MN,United States,288400.0,1
+452,Funplus Game Co.,Beijing,,China,288400.0,1
+453,Ibm Corporate Giving Program,Armonk,NY,United States,288400.0,1
+454,Thyssenkrupp Ag,Essen,,Germany,288400.0,1
+455,Mcauley Ministries,Pittsburgh,PA,United States,286000.0,11
+456,"Cf Foundation, Inc.",Atlanta,GA,United States,285000.0,10
+457,The Estee Lauder Companies Inc. Corporate Giving Program,New York City,NY,United States,284800.0,1
+458,A.C. Milan,Milano,,Italy,281910.0,1
+459,North Georgia Community Foundation,Gainesville,GA,United States,258360.0,24
+460,Oceanfirst Foundation,Toms River,NJ,United States,250000.0,35
+461,Broadway Cares/Equity Fights Aids,New York City,NY,United States,250000.0,1
+462,Charlotte Mecklenburg Community Foundation,Charlotte,NC,United States,250000.0,1
+463,Erica Lawson,San Francisco,CA,United States,250000.0,1
+464,F. R. Bigelow Foundation,Saint Paul,MN,United States,250000.0,1
+465,Great-West Life & Annuity Insurance Company Contributions Program,Greenwood Village,CO,United States,250000.0,1
+466,Jeff Lawson,San Francisco,CA,United States,250000.0,1
+467,"Sacramento Kings, L.P. Corporate Giving Program",Sacramento,CA,United States,250000.0,1
+468,The Starbucks Foundation,Seattle,WA,United States,250000.0,1
+469,Webster Bank Corporate Giving Program,Waterbury,CT,United States,250000.0,1
+470,Woda Cooper Companies,Columbus,OH,United States,250000.0,1
+471,"Pascale/Sykes Foundation, Inc.",Philadelphia,PA,United States,242250.0,13
+472,Gulf Coast Community Foundation,Venice,FL,United States,223650.0,11
+473,Cvs Health Corporate Giving Program,Woonsocket,RI,United States,220000.0,1
+474,The Alaska Community Foundation,Anchorage,AK,United States,215375.0,25
+475,Northland Foundation,Duluth,MN,United States,215000.0,94
+476,Keppel Care Foundation Limited,Singapore,,Singapore,214500.0,1
+477,The Dayton Foundation,Dayton,OH,United States,213499.0,14
+478,"J. B. Fuqua Foundation, Inc.",Atlanta,GA,United States,205000.0,12
+479,Liberty Bank Foundation,Wethersfield,CT,United States,200000.0,17
+480,Kate Spade New York Foundation,New York City,NY,United States,200000.0,2
+481,Ripple,San Francisco,CA,United States,200000.0,2
+482,"The Boston Beer Company, Inc. Contributions Program",Boston,MA,United States,200000.0,2
+483,Cathay Bank Contributions Program,Los Angeles,CA,United States,200000.0,1
+484,Genscript Biotech Corporation,Nanjing,,China,200000.0,1
+485,Pinpoint Foundation,Palo Alto,CA,United States,198000.0,38
+486,Health and Happiness (H&H) International Holdings Limited,Quarry Bay,,Hong Kong,187460.0,1
+487,The Commonwealth Fund,New York City,NY,United States,179936.0,4
+488,Community Foundation for the Alleghenies,Johnstown,PA,United States,172187.0,41
+489,"United Way of the Central Savannah River Area, Inc",Augusta,GA,United States,160000.0,6
+490,"The Community Foundation of Frederick County, Inc.",Frederick,MD,United States,158500.0,14
+491,Sam L. Cohen Foundation,Portland,ME,United States,150000.0,15
+492,Gar Foundation,Akron,OH,United States,150000.0,1
+493,Wells Fargo & Company Contributions Program,San Francisco,CA,United States,150000.0,1
+494,Anqiu Lu'An Pharmaceutical Co.,Anqiu,,China,144200.0,1
+495,Denso Corporation,Kariya,,Japan,144200.0,1
+496,Gianni Versace,Milano,,Italy,144200.0,1
+497,Hozon New Energy Automobile Co.,Tongxiang,,China,144200.0,1
+498,Lizhi Inc.,Guangzhou,,China,144200.0,1
+499,Meiji Seika Pharma Co.,Tokyo,,Japan,144200.0,1
+500,"Micron Technology Foundation, Inc.",Boise,ID,United States,144200.0,1
+501,Servier Tianjin Pharmaceutical Co.,Tianjin,,China,144200.0,1
+502,Wuhan Guide Infrared Co.,Wuhan,,China,144200.0,1
+503,Great Eastern Holdings,Singapore,,Singapore,143000.0,1
+504,"Molina Healthcare, Inc. Contributions Program",Long Beach,CA,United States,140000.0,2
+505,Dcb Bank Limited,Mumbai,,India,130429.0,1
+506,A B Charitable Trust,London,,England,128276.0,1
+507,The Provident Bank Foundation,Morristown,NJ,United States,125000.0,25
+508,Bonfils-Stanton Foundation,Denver,CO,United States,125000.0,1
