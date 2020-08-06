@@ -1,4 +1,5 @@
 # Data-Engineering
 Repo for all my data related projects
 ## Sub-Folder
-Syb-folder contain projects and their readme to help understand
+To check project I have worked on, go into the sub-folders
+
