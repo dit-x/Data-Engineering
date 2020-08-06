@@ -2,10 +2,15 @@
 This is a data engineering project to help the analytics team of a music company to build a data storage system. With this data properly stored, it will allow their analytics team to continue finding insights in what songs their users are listening to
 
 # Project Description
-The goal of this project to assist the need of the team is to build an ETL pipeline. To do this, I will:
+The goal of this project to assist the need of the team by building an ETL pipeline. To do this, I will:
 * load the raw JSON file from S3 (`the data location`)
 * Process the data using spark into analytics table
 * load the data back to S3
+
+![Data-lake-process-flow](https://user-images.githubusercontent.com/55639062/89523737-4691ee80-d7db-11ea-8014-f68bfc0b451d.png)
+
+***Image:*** *`Project description overview`*
+
 
 # Dataset for the Projects
 There are two datasets for the project, the song data, and the log data.
