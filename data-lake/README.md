@@ -2,14 +2,15 @@
 This is a data engineering project to help the analytics team of a music company to build a data storage system. With this data properly stored, it will allow their analytics team to continue finding insights in what songs their users are listening to
 
 # Project Description
-The goal of this project to assist the need of the team by building an ETL pipeline. To do this, I will:
+The goal of this project is to assist the need of the team by building an ETL pipeline. To do this, I will:
 * load the raw JSON file from S3 (`the data location`)
 * Process the data using spark into analytics table
 * load the data back to S3
 
-![Data-lake-process-flow](https://user-images.githubusercontent.com/55639062/89523737-4691ee80-d7db-11ea-8014-f68bfc0b451d.png)
+![Data-lake-process-flow](https://user-images.githubusercontent.com/55639062/89523737-4691ee80-d7db-11ea-8014-f68bfc0b451d.png) <p align="center">
+  <b>Image:</b> `Project description overview`<br>
+</p>
 
-***Image:*** *`Project description overview`*
 
 
 # Dataset for the Projects
@@ -81,7 +82,7 @@ To start data processing, I studied the data to know how to best approach the da
 ```python
 def process_song_data(spark, input_data, output_data):
     """
-    This help process the song data into the different dimension table
+    This helps process the song data into the different dimension table
 
     Parameters
     ----------
@@ -101,7 +102,7 @@ def process_song_data(spark, input_data, output_data):
 ```python
 def process_log_data(spark, input_data, output_data):
     """
-    This help process the log data into the different dimension table
+    This helps process the log data into the different dimension table
 
     Parameters
     ----------
@@ -155,4 +156,7 @@ def main():
     which will then be written to parquet files.
     3.) Load the parquet files on s3.
     """
+     .
+    .
+                        # Check ETL.py for complete code...
 ```

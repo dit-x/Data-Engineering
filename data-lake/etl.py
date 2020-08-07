@@ -66,7 +66,7 @@ def convert_ts(ts):
 
 def process_song_data(spark, input_data, output_data):
     """
-    This help process the song data into the different dimension table
+    This helps process the song data into the different dimension table
 
     Parameters
     ----------
@@ -121,7 +121,7 @@ def process_song_data(spark, input_data, output_data):
 
 def process_log_data(spark, input_data, output_data):
     """
-    This help process the log data into the different dimension table
+    This helps process the log data into the different dimension table
 
     Parameters
     ----------
