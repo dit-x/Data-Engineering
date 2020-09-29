@@ -33,8 +33,15 @@ class TweetStreamListener(StreamListener):
             self.fieldnames_d = ["x_value", 'trump', 'biden']
             writer = csv.DictWriter(f, fieldnames=self.fieldnames_d)
             writer.writeheader()
+
+        # save tweets filepath
+        self.tweet_path = os.getcwd() + '/tweets_T_B.csv'
+        with open(self.tweet_path, 'w') as f:
+            self.fieldnames_t = ["time", 'tweets']
+            writer = csv.DictWriter(f, fieldnames=self.fieldnames_t)
+            writer.writeheader()
         
-        self.max_sec = 30
+        self.max_sec = 300
 
         self.x = []
         self.y = []
@@ -87,6 +94,15 @@ class TweetStreamListener(StreamListener):
                 get_data = [ tweet["created_at"], tweet['text'] ]                                      # get the time only
             self.store.append(get_data)                                                                # save the data
             
+            with open(self.tweet_path, 'a') as f:                                                   # append every new record
+                writer = csv.DictWriter(f, fieldnames=self.fieldnames_t)
+                
+                info = {
+                    'time': get_data[0],
+                    'tweets': get_data[1]
+                }
+                writer.writerow(info)
+
             # if time (the seconds) is the same keep counting the incoming tweets
             if ts == self.last_ts:                                                                     # check if the last and current ts is diff
                 if 'trump' in tweet['text'].lower():
@@ -161,8 +177,8 @@ class TweetStreamListener(StreamListener):
                     
 
                 if len(self.x) > self.max_sec:                                                             # break if false
-                    df = pd.DataFrame(self.store, columns=['time', 'tweets'])                              # store the data fetched into dataframe
-                    df.to_csv('tweets_T-B.csv')
+                    # df = pd.DataFrame(self.store, columns=['time', 'tweets'])                              # store the data fetched into dataframe
+                    # df.to_csv('tweets_T-B.csv')
                     return False
 
 
@@ -181,12 +197,16 @@ for line in f:
     auth.append(line.strip())
 f.close()
 
-# try:
+try:
 # set your authentication and call the class
-listener = TweetStreamListener()
-auth_key = OAuthHandler(auth[0], auth[1])
-auth_key.set_access_token(auth[2], auth[3])
-live_twitter_stream = Stream(auth_key, listener)
-live_twitter_stream.filter(track=['Trump', 'Biden'])
+    listener = TweetStreamListener()
+    auth_key = OAuthHandler(auth[0], auth[1])
+    auth_key.set_access_token(auth[2], auth[3])
+    live_twitter_stream = Stream(auth_key, listener)
+    live_twitter_stream.filter(track=['Trump', 'Biden'])
+
+except KeyboardInterrupt as e:
+    sys.exit()
+
 
 # %%
